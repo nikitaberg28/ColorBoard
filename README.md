@@ -1,6 +1,6 @@
 <div align="center">
 
-# ScoreHudRP
+# ColorBoard
 
 [![Bedrock](https://img.shields.io/badge/Bedrock-Core-00B4FF.svg?style=flat-square)](https://github.com/topics/minecraft-bedrock-edition)
 
